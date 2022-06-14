@@ -1,0 +1,14 @@
+["abcde","ace"],"ace"
+["lmnopq","xyz"],""
+["peacock","penguin"],"pe"
+["ttybace","bclknm"],"bc"
+["canada","vancouver"],"an"
+["book","table"],"b"
+["spptap","pxtxsap"],"ptap"
+["common","communicate"],"commn"
+["xyzxyz","axbyyzz"],"xyyz"
+["yellow","melon"],"elo"
+["csstxbst","astsbksty"],"stbst"
+["example","analyze"],"ale"
+
+
